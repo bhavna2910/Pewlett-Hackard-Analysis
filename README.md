@@ -16,7 +16,7 @@ The purpose of this project is to perform analysis on a large-scale of employee 
 * 2 Managers.
 
 ### Mentorship Eligibility
-Created the mentorship_eligibility table by joining the employees, department employees, and titles tables. In this case, the criterion for the join was that the employees were born in 1965 and that they were currently working at PH, in order for them to apply to the retiring/mentorship package. There were **1,549** employees eligible.
+* Created the mentorship_eligibility table by joining the employees, department employees, and titles tables. In this case, the criterion for the join was that the employees were born in 1965 and that they were currently working at PH, in order for them to apply to the retiring/mentorship package. There were **1,549** employees eligible.
 
 ## Summary
 * Ideally, as Silver Tsunami approaches the idea to prepare and be on the look for **13,505** employees. This number represents the number of people that are currently working at the company, have been there since 1985 to 1988, and their birth date is between 1962 and 1965 to be eligible to leave work. The plan is to offer these people the mentorship program so that they can keep mentoring new employees. However, if they decide to go PH should be ready to hire that amount of people.
